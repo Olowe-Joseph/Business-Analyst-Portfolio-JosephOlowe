@@ -1,5 +1,4 @@
 # Business-Analyst-Portfolio-JosephOlowe
-# Business Analyst Portfolio – Joseph Olowe
 
 Welcome to my professional portfolio as a Business Analyst. This repository showcases real-world simulations and strategic work in:
 
