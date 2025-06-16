@@ -1,0 +1,10 @@
+1-Claims-Process-Redesign/
+├── README.md              ← Overview & links to each file
+├── BRD.md                 ← Main Business Requirements Doc
+├── SRS.md                 ← Functional/Non-functional specs
+├── User_Stories.xlsx
+├── As-Is_Process_Diagram.png
+├── To-Be_Process_Diagram.png
+├── Stakeholder_List.md
+├── Glossary.md
+└── Full_Case_Study.pdf    ← (Optional full download)
