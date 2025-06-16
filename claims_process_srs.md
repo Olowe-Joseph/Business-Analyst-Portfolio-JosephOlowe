@@ -1,4 +1,4 @@
-# 📄 Software Requirements Specification (SRS)
+#  Software Requirements Specification (SRS)
 ## Project: Claims Process Redesign for PrimeTrust Insurance Ltd
 
 ---
