@@ -1,6 +1,6 @@
 #  UAT Project – Core Banking Application (FinOne Bank)
 
-This portfolio project demonstrates my ability to plan, coordinate, and deliver **User Acceptance Testing (UAT)** for a core banking system rollout — a critical skill for any Business Analyst working on enterprise systems.
+This portfolio project demonstrates my ability to plan, coordinate, and deliver **User Acceptance Testing (UAT)** for a core banking system rollout, a critical skill for any Business Analyst working on enterprise systems.
 
 ---
 
