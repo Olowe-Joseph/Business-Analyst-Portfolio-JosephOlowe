@@ -4,10 +4,8 @@ Welcome to my professional portfolio as a Business Analyst. This repository show
 
 -  Process Mapping & Optimization
 -  Agile User Stories & Backlogs
--  SQL Data Analysis for Business Insight
 -  UAT Planning & Execution
--  Prompt Engineering for Business Tasks
--  Business Cases & KPI Dashboards
+
 
 Each folder contains documentation, assets, and deliverables modeled after real-life business analyst responsibilities. I’ve included BRDs, test cases, SQL files, prompt libraries, and more.
 
@@ -20,9 +18,7 @@ Each folder contains documentation, assets, and deliverables modeled after real-
 | Claims Process Redesign | Process Optimization | [View Folder](./claims_process_redesign.md) |
 | UAT Banking App | QA / Agile / Documentation | [View Folder](./uat_banking_app_overview.md) |
 | Agile Backlog | Agile Planning | [View Folder](./4-Agile-Backlog-MobileLending) |
-| Automation Business Case | Strategy / ROI | [View Folder](./5-Business-Case-Automation) |
-| AI Prompt Pack | Prompt Engineering | [View Folder](./6-Prompt-Pack-AI-Business) |
-| KPI Dashboard | Reporting | [View Folder](./7-KPI-Dashboard-Excel) |
+
 
 ---
 
